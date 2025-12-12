@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Keyu Guo"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "My major is Traffic Information Engineering and Control. I am a member of the Visual Language Perception (VLP) team at Chang’an University. My research interests include multi-object tracking, multimodal learning, visual grounding, and anomaly detection."
 repository               : "klaygky/klaygky.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Keyu Guo"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Chang'an University"
+  bio              : "Ph.D. at Chang'an University. Visiting Ph.D. at Politecnico di Milano, Polimi."
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
