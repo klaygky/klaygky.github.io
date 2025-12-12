@@ -27,8 +27,12 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025! (congrates Hongkai)
+- *2025.08*: &nbsp;🎉🎉 One paper accpeted by Information fusion (SCI Q1, IF:15.5)! 
+- *2025.05*: &nbsp;🎉🎉 One paper accpeted by ICMR (CCF-B, Core B)! (congrates Yongle)
+- *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN (CCF-C, Core B)! 
+- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR (CCF-A, Core `A*`)! 
+- *2025.01*: &nbsp;🎉🎉 One paper accpeted by Computers and electrical engineering (SCI Q1, IF:4.9)! 
+- *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025 (CCF-B, Core A)! (congrates Hongkai)
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
