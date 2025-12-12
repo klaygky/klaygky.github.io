@@ -30,7 +30,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - *2025.08*: &nbsp;🎉🎉 One paper accpeted by Information fusion (SCI Q1, IF:15.5)! 
 - *2025.05*: &nbsp;🎉🎉 One paper accpeted by ICMR (CCF-B, Core B)! (congrates Yongle)
 - *2025.04*: &nbsp;🎉🎉 One paper accpeted by IJCNN (CCF-C, Core B)! 
-- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR (CCF-A, Core `A*`)! 
+- *2025.02*: &nbsp;🎉🎉 One paper accpeted by CVPR (CCF-A, Core A\*)! 
 - *2025.01*: &nbsp;🎉🎉 One paper accpeted by Computers and electrical engineering (SCI Q1, IF:4.9)! 
 - *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025 (CCF-B, Core A)! (congrates Hongkai)
 # 📝 Publications 
@@ -77,16 +77,17 @@ My research interests include **multi-object tracking**, **multimodal learning**
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.05* China Scholarship Council (CSC) Scholarship for the China-Built High-Level University Consortium Program. 
+- *2024.12* National Third Prize of China Graduate Contest on Smart-city Technology and Creative Design.
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11 - present*, Visiting Ph.D., Politecnico di Milano, Milan, Italy. 
+- *2022.09 - present*, Ph.D., Chang'an University, Xi'an, China. 
+- *2018.09 - 2022.06*, Bachelor, Chang'an University, Xi'an, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🌊 SERVICES
+- IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
+- Expert Systems with Applications Reviewer 
+- IEEE ICME Reviewer 
+- IEEE IJCNN Reviewer 
+- Computers & Electrical Engineering Reviewer
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
