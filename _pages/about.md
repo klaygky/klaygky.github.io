@@ -42,12 +42,39 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 **Keyu Guo**, Yongle Huang, Tinglei Jia, Xiangyu Song, Shijie Sun, Hongkai Wei, Xian-Feng Han, Shuwen Huang, Nicola Strisciuglio ,Shuyan Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/ijcnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MSALNet: Capturing Contextual Relationships for Monocular 3D Visual Grounding](https://ieeexplore.ieee.org/document/11227744)
+
+**Keyu Guo**, Yongle Huang, Yongfeng Bu, Hongkai Wei, Shijie Sun, Xiangyu Song
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+  
+<div class='paper-box-text' markdown="1">
+[Beyond Human Perception: Understanding Multi-Object World from Monocular View](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Beyond_Human_Perception_Understanding_Multi-Object_World_from_Monocular_View_CVPR_2025_paper.pdf)
+
+**Keyu Guo**, Yongle Huang, Shijie Sun, Xiangyu Song, Mingtao Feng, Zedong Liu, Huansheng Song, Tiantian Wang, Jianxin Li, Naveed Akhtar, Ajmal Saeed Mian
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAEE</div><img src='images/caee.png' alt="sym" width="100%"></div></div>
+  
+<div class='paper-box-text' markdown="1">
+[SmartTrack: Sparse multiple objects association with selective re-identification tracking](https://www.sciencedirect.com/science/article/pii/S004579062500059X)
+
+**Keyu Guo**, Shuwen Huang, Xiangyu Song, Shijie Sun, Huansheng Song, Yongfeng Bu
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
