@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Nice to meet you! My name is Keyu Guo (郭柯宇).**
+## **Nice to meet you, I am Keyu Guo (郭柯宇)!**
 
-I am currently a Ph.D. student in **Traffic Information Engineering and Control** at **Chang’an University**, and a member of the **Visual Language Perception (VLP) team**. My advisor is **Prof. Huansheng Song** ([Homepage](https://js.chd.edu.cn/xxgcxy/shs/main.psp)), and my co-advisor is **Prof. Shijie Sun** ([Homepage](https://js.chd.edu.cn/sjkxyrgzn/ssj102)).
-
-In **2025**, supported by the **CSC scholarship**, I am visiting **Politecnico di Milano**, supervised by **Prof. Giacomo Boracchi** ([Homepage](https://boracchi.faculty.polimi.it/)).
+I am a Ph.D. student at **[Chang’an University](https://www.chd.edu.cn/)**, majoring in **Traffic Information Engineering and Control**, and a member of the **[Visual Language Perception (VLP) Team](http://vlp.chd.edu.cn/)**, supervised by **[Prof. Huansheng Song (宋焕生)](https://js.chd.edu.cn/xxgcxy/shs/main.psp)** and co-supervised by **[Prof. Shijie Sun (孙士杰)](https://js.chd.edu.cn/sjkxyrgzn/ssj102)**.  
+In **2025**, supported by the **CSC scholarship**, I am a visiting Ph.D. student at **[Politecnico di Milano](https://www.polimi.it/en/)**, working closely with **[Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/)**.
 
 My research interests include **multi-object tracking**, **multimodal learning**, **visual grounding**, and **anomaly detection**.
 
@@ -29,8 +28,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025! (congrates Hongkai)
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
