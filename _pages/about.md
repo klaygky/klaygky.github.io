@@ -85,7 +85,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - *2022.09 - present*, Ph.D., Chang'an University, Xi'an, China. 
 - *2018.09 - 2022.06*, Bachelor, Chang'an University, Xi'an, China.
 
-# 🌊 SERVICES
+# 🌊 Services
 - IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
 - Expert Systems with Applications Reviewer 
 - IEEE ICME Reviewer 
