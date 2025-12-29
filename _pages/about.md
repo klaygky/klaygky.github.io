@@ -94,3 +94,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - IEEE IJCNN Reviewer 
 - Computers & Electrical Engineering Reviewer
 
+# 📧 Mail 
+If you share similar research interests or would like to collaborate with me, feel free to reach out to me via email:
+- keyuguo@chd.edu.cn **(Main)**
+- keyu.guo@polimi.it
