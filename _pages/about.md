@@ -20,7 +20,7 @@ redirect_from:
 ## **Nice to meet you, I am Keyu Guo (郭柯宇)!**
 
 I am a Ph.D. student at **[Chang’an University](https://www.chd.edu.cn/)**, majoring in **Traffic Information Engineering and Control**, and a member of the **[Visual Language Perception (VLP) Team](http://vlp.chd.edu.cn/)**, supervised by **[Prof. Huansheng Song (宋焕生)](https://js.chd.edu.cn/xxgcxy/shs/main.psp)** and co-supervised by **[Prof. Shijie Sun (孙士杰)](https://js.chd.edu.cn/sjkxyrgzn/ssj102)**.  
-In **2025**, supported by the **CSC scholarship**, I am a visiting Ph.D. student at **[Politecnico di Milano](https://www.polimi.it/en/)**, working closely with **[Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/)**.
+In **2025**, supported by the **China Scholarship Council (CSC) scholarship**, I am a visiting Ph.D. student at **[Politecnico di Milano](https://www.polimi.it/en/)**, working closely with **[Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/)**.
 
 My research interests include **multi-object tracking**, **multimodal learning**, **visual grounding**, and **anomaly detection**.
 
