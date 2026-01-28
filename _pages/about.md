@@ -27,6 +27,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One first author paper accpeted by Neurocomputing (SCI Q1, IF:6.5)! 
 - *2026.01*: &nbsp;🎉🎉 Two co-first author paper accpeted by ICASSP 2026 (CCF-B, Core A)! (congrates Hongkai and Huize)
 - *2025.11*: &nbsp;🎉🎉 One co-first author paper accpeted by IJTST (SCI Q1, IF:4.8)! (congrates Hongkai)
 - *2025.08*: &nbsp;🎉🎉 One first author paper accpeted by Information fusion (SCI Q1, IF:15.5)! 
