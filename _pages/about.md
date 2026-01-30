@@ -27,16 +27,16 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper accpeted by IEEE TIP (SCI Q1, CCF-A, IF:13.7)! (congrates Hongkai)
+- *2026.02*: &nbsp;🎉🎉 One co-author paper accpeted by IEEE TIP (SCI Q1, CCF-A, IF:13.7)! (congrates Hongkai)
 - *2026.02*: &nbsp;🎉🎉 One first author paper accpeted by Neurocomputing (SCI Q1, IF:6.5)! 
 - *2026.01*: &nbsp;🎉🎉 Two co-first author paper accpeted by ICASSP 2026 (CCF-B, Core A)! (congrates Hongkai and Huize)
 - *2025.11*: &nbsp;🎉🎉 One co-first author paper accpeted by IJTST (SCI Q1, IF:4.8)! (congrates Hongkai)
 - *2025.08*: &nbsp;🎉🎉 One first author paper accpeted by Information fusion (SCI Q1, IF:15.5)! 
-- *2025.05*: &nbsp;🎉🎉 One paper accpeted by ICMR 2025 (CCF-B, Core B)! (congrates Yongle)
+- *2025.05*: &nbsp;🎉🎉 One co-author paper accpeted by ICMR 2025 (CCF-B, Core B)! (congrates Yongle)
 - *2025.04*: &nbsp;🎉🎉 One first author paper accpeted by IJCNN 2025 (CCF-C, Core B)! 
 - *2025.02*: &nbsp;🎉🎉 One first author paper accpeted by CVPR 2025 (CCF-A, Core A\*)! 
 - *2025.01*: &nbsp;🎉🎉 One first author paper accpeted by Computers and electrical engineering (SCI Q1, IF:4.9)! 
-- *2024.12*: &nbsp;🎉🎉 One paper accpeted by ICASSP 2025 (CCF-B, Core A)! (congrates Hongkai)
+- *2024.12*: &nbsp;🎉🎉 One co-author paper accpeted by ICASSP 2025 (CCF-B, Core A)! (congrates Hongkai)
 
 
 # 📝 Selected publications 
