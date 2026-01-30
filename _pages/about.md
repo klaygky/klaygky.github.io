@@ -41,7 +41,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 📝 Selected publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/neuro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/neuro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ArgusNet: Understanding 3D scenes more like humans](https://www.sciencedirect.com/science/article/pii/S0925231226002924?via%3Dihub)
