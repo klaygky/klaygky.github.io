@@ -106,6 +106,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
 - IEEE ICME Reviewer 
 - IEEE IJCNN Reviewer
+- Information Fusion Reviewer
 - Expert Systems with Applications Reviewer 
 - Computers & Electrical Engineering Reviewer
 
