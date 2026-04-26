@@ -43,21 +43,18 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 📝 Selected publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/neuro.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/eswa.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-[From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images]
-
+From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images
+  
 **Keyu Guo**, Hongkai Wei, Yongle Huang, Hongkai Wei, Shijie Sun, Xiangyu Song, Mingtao Feng, Tiantian Wang, Shan Yu, Huansheng Song
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/eswa.pdf' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/neuro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-
 [ArgusNet: Understanding 3D scenes more like humans](https://www.sciencedirect.com/science/article/pii/S0925231226002924?via%3Dihub)
 
 **Keyu Guo**, Hongkai Wei, Yongle Huang, Xiangyu Song, Shijie Sun, Mingtao Feng, Huansheng Song, Jianxin Li, Yongjun Zhang
