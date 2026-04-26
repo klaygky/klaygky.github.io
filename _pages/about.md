@@ -44,7 +44,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 # 📝 Selected publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/eswa.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images
   
