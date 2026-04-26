@@ -52,7 +52,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/eswa.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
