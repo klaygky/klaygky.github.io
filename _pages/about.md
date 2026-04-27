@@ -48,7 +48,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 <div class='paper-box-text' markdown="1">
 From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images
   
-**Keyu Guo**, Hongkai Wei, Yongle Huang, Hongkai Wei, Shijie Sun, Xiangyu Song, Mingtao Feng, Tiantian Wang, Shan Yu, Huansheng Song
+**Keyu Guo**, Yongle Huang, Hongkai Wei, Shijie Sun, Xiangyu Song, Mingtao Feng, Tiantian Wang, Shan Yu, Huansheng Song
 </div>
 </div>
 
