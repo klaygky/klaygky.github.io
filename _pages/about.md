@@ -46,7 +46,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images] (https://www.sciencedirect.com/science/article/pii/S0957417426015708)
+[From Perception to Cognition: Unifying Multi-object 3D Visual Grounding and Dense Captioning in Monocular Images](https://www.sciencedirect.com/science/article/pii/S0957417426015708)
   
 **Keyu Guo**, Yongle Huang, Hongkai Wei, Shijie Sun, Xiangyu Song, Mingtao Feng, Tiantian Wang, Shan Yu, Huansheng Song
 </div>
