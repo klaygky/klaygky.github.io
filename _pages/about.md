@@ -44,7 +44,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 📝 Selected publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/u2net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/u2net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [U2ENet: Unified End-to-End Network for Monocular Image-based Single-object and Multi-object 3D Visual Grounding]
   
