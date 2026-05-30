@@ -124,6 +124,8 @@ U2ENet: Unified End-to-End Network for Monocular Image-based Single-object and M
 - IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
 - IEEE ICME Reviewer 
 - IEEE IJCNN Reviewer
+- PRCV Reviewer
+- ACM MM Reviewer
 - Neurocomputing Reviewer
 - Information Fusion Reviewer
 - Expert Systems with Applications Reviewer 
