@@ -27,6 +27,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One first author paper accpeted by Information fusion (SCI Q1, IF:15.5)! 
 - *2026.04*: &nbsp;🎉🎉 One first author paper accpeted by ESWA (SCIQ1, IF:7.5)!
 - *2026.03*: &nbsp;🎉🎉 One co-first author paper accpeted by IJCNN 2026 (CCF-C, Core B)!  (congrates Hanke)
 - *2026.02*: &nbsp;🎉🎉 One co-author paper accpeted by IEEE TIP (SCI Q1, CCF-A, IF:13.7)! (congrates Hongkai)
@@ -43,6 +44,13 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 📝 Selected publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/u2net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[U2ENet: Unified End-to-End Network for Monocular Image-based Single-object and Multi-object 3D Visual Grounding]
+  
+**Keyu Guo**, Hongkai Wei, Yongle Huang, Hongli Hu, Xiangyu Song, Shijie Sun, Yi Zhou, Huansheng Song, Nicola Strisciuglio
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/eswa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
