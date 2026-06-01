@@ -46,7 +46,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/u2net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-U2ENet: Unified End-to-End Network for Monocular Image-based Single-object and Multi-object 3D Visual Grounding
+[U2ENet: Unified End-to-End Network for Monocular Image-based Single-object and Multi-object 3D Visual Grounding](https://www.sciencedirect.com/science/article/pii/S1566253526003945)
   
 **Keyu Guo**, Hongkai Wei, Yongle Huang, Hongli Hu, Xiangyu Song, Shijie Sun, Yi Zhou, Huansheng Song, Nicola Strisciuglio
 </div>
