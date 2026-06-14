@@ -128,8 +128,13 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - ACM MM Reviewer
 - Neurocomputing Reviewer
 - Information Fusion Reviewer
-- Expert Systems with Applications Reviewer 
+- Expert Systems with Applications Reviewer
+- Image and Vision Computing Journal Reviewer
 - Computers & Electrical Engineering Reviewer
+
+# 💬 Invited Talks
+- 2026.6.3, University of Twente, “Towards Object-Centric and 3D-Aware Scene Understanding from Monocular Images” (Invited by Prof. Nicola Strisciuglio).
+
 
 # 📧 Mail 
 If you share similar research interests or would like to collaborate with me, please feel free to reach out to me via email:
