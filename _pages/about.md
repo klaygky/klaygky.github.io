@@ -121,6 +121,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - *2018.09 - 2022.06*, Bachelor, Chang'an University, Xi'an, China.
 
 # 🌊 Services
+- IEEE WCCI 2026 Session Chair
 - IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
 - IEEE ICME Reviewer 
 - IEEE IJCNN Reviewer
