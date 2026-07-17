@@ -125,6 +125,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 - IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
 - IEEE ICME Reviewer 
 - IEEE IJCNN Reviewer
+- Pattern Recognition Reviewer
 - PRCV Reviewer
 - ACM MM Reviewer
 - Neurocomputing Reviewer
