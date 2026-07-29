@@ -22,11 +22,12 @@ redirect_from:
 I am a Ph.D. student at **[Chang’an University](https://www.chd.edu.cn/)**, majoring in **Traffic Information Engineering and Control**, and a member of the **[Visual Language Perception (VLP) Team](http://vlp.chd.edu.cn/)**, supervised by **[Prof. Huansheng Song (宋焕生)](https://js.chd.edu.cn/xxgcxy/shs/main.psp)** and co-supervised by **[Prof. Shijie Sun (孙士杰)](https://js.chd.edu.cn/sjkxyrgzn/ssj102)**.  
 In **2025**, supported by the **China Scholarship Council (CSC) scholarship**, I am a visiting Ph.D. student at **[Politecnico di Milano](https://www.polimi.it/en/)**, working closely with **[Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/)**.
 
-My research interests include **multi-object tracking**, **multimodal learning**, **visual grounding**, and **anomaly detection**.
+My research interests include **multi-object tracking**, **multimodal learning**, **visual grounding**, and **medical anomaly detection**.
 
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One first author paper accpeted by Pattern Recognition (SCI Q1, IF:9.1)! 
 - *2026.06*: &nbsp;🎉🎉 One first author paper accpeted by Information fusion (SCI Q1, IF:17.4)! 
 - *2026.04*: &nbsp;🎉🎉 One first author paper accpeted by ESWA (SCIQ1, IF:9.4)!
 - *2026.03*: &nbsp;🎉🎉 One co-first author paper accpeted by IJCNN 2026 (CCF-C, Core B)!  (congrates Hanke)
@@ -43,6 +44,14 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 
 # 📝 Selected publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+MedHyCLIP: Hyperbolic CLIP Adaptation for Universal Medical Anomaly Detection  
+**Keyu Guo**, Xinyi Wu, Hongkai Wei, Yongle Huang, Xiangyu Song, Shijie Sun, Yueming Shi, Huansheng Song, Nicola Strisciuglio
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information fusion</div><img src='images/u2net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
