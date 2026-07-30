@@ -134,6 +134,7 @@ MedHyCLIP: Hyperbolic CLIP Adaptation for Universal Medical Anomaly Detection
 - IEEE Transactions on Circuits and Systems for Video Technology Reviewer 
 - IEEE ICME Reviewer 
 - IEEE IJCNN Reviewer
+- Knowledge-based System Reviewer
 - Pattern Recognition Reviewer
 - PRCV Reviewer
 - ACM MM Reviewer
