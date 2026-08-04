@@ -48,6 +48,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MedHyCLIP: Hyperbolic CLIP Adaptation for Universal Medical Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0031320326015463)
+
 **Keyu Guo**, Xinyi Wu, Hongkai Wei, Yongle Huang, Xiangyu Song, Shijie Sun, Yueming Shi, Huansheng Song, Nicola Strisciuglio
 </div>
 </div>
