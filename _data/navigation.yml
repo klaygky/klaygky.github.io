@@ -18,5 +18,8 @@ main:
   - title: "Services"
     url: "/#-services"
 
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+
   - title: "Mail"
     url: "/#-mail"
