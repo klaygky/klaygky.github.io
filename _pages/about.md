@@ -45,7 +45,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 📝 Selected publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Processing & Management</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Processing & Management</div><img src='images/ipm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PrismVG: Posterior State Fusion and Slot Evidence Verification for Monocular Multi-Object 3D Visual Grounding]
 
