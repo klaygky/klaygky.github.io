@@ -45,6 +45,14 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 # 📝 Selected publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Processing & Management</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PrismVG: Posterior State Fusion and Slot Evidence Verification for Monocular Multi-Object 3D Visual Grounding]
+
+**Keyu Guo**, Hongkai Wei, Tianyu Liang, Long Li, Xiangyu Song, Yu Luo, Shijie Sun, Huansheng Song
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MedHyCLIP: Hyperbolic CLIP Adaptation for Universal Medical Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0031320326015463)
@@ -122,6 +130,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 </div>
 
 # 🎖 Honors and Awards
+- *2026.10* National Scholarship. 
 - *2025.05* China Scholarship Council (CSC) Scholarship for the China-Built High-Level University Consortium Program. 
 - *2024.12* National Third Prize of China Graduate Contest on Smart-city Technology and Creative Design.
 
