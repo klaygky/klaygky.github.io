@@ -48,7 +48,7 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Processing & Management</div><img src='images/ipm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PrismVG: Posterior State Fusion and Slot Evidence Verification for Monocular Multi-Object 3D Visual Grounding]
+PrismVG: Posterior State Fusion and Slot Evidence Verification for Monocular Multi-Object 3D Visual Grounding
 
 **Keyu Guo**, Hongkai Wei, Tianyu Liang, Long Li, Xiangyu Song, Yu Luo, Shijie Sun, Huansheng Song
 </div>
