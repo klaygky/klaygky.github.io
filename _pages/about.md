@@ -27,7 +27,8 @@ My research interests include **multi-object tracking**, **multimodal learning**
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 One first author paper accpeted by Information Processing & Management (SCI Q1, IF:8.1)! 
+- *2026.10*: &nbsp;🎉🎉 One first author paper accpeted by Information Processing & Management (SCI Q1, IF:8.1)!
+- *2026.08*: &nbsp;🎉🎉 One co-author author paper accpeted by Pattern Recognition (SCI Q1, IF:9.1)!  (congrates Hongkai)
 - *2026.08*: &nbsp;🎉🎉 One first author paper accpeted by Pattern Recognition (SCI Q1, IF:9.1)! 
 - *2026.06*: &nbsp;🎉🎉 One first author paper accpeted by Information fusion (SCI Q1, IF:17.4)! 
 - *2026.04*: &nbsp;🎉🎉 One first author paper accpeted by ESWA (SCIQ1, IF:9.4)!
